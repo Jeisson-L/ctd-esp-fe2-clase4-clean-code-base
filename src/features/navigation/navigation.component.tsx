@@ -5,7 +5,7 @@ import { FC } from 'react';
 const Navbar: FC = () => (
   <div className={'container'} style={{ width: '100vw' }}>
     <NavDesktop />
-             <NavMobile />
+    <NavMobile />
   </div>
 );
 
