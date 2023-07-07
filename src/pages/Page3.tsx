@@ -10,8 +10,9 @@ import { LocationsComponent } from 'features/locations';
  * @returns the home page
  */
 const Page3: FC = () => (
+
   <div className={'container'}>
-    <LocationsComponent />
+      <LocationsComponent />
   </div>
 );
 
